@@ -1,0 +1,43 @@
+import { library } from '@fortawesome/fontawesome-svg-core';
+import {
+  faHome, faCreditCard, faHandHoldingUsd, faShieldAlt,
+  faChartPie, faBars, faTimes, faArrowRight, faArrowLeft,
+  faCheck, faExclamationTriangle, faInfoCircle, faTimesCircle,
+  faCheckCircle, faEye, faEyeSlash, faDownload, faUpload,
+  faSearch, faFilter, faBell, faUser, faCog, faSignOutAlt,
+  faPlus, faMinus, faEdit, faTrash, faAngleRight, faAngleLeft,
+  faAngleDown, faAngleUp, faCalendar, faCoins, faPercent,
+  faBuilding, faCar, faHeart, faUmbrella, faPhone, faEnvelope,
+  faFileAlt, faChartLine, faWallet, faStar, faStarHalf,
+  faLock, faUnlock, faQrcode, faPaperPlane, faExchangeAlt,
+  faHistory, faReceipt, faGlobe, faShoppingCart, faPiggyBank,
+  faCalculator, faClock, faRupeeSign, faArrowUp, faArrowDown,
+  faBolt, faGift, faTag, faTrophy, faThumbsUp, faThumbsDown,
+  faHospital, faPlane, faMotorcycle, faBriefcase, faFire,
+  faWater, faHome as faHomeAlt, faChevronRight, faChevronLeft,
+  faEllipsisV, faSpinner, faSyncAlt, faCheckDouble, faBan,
+  faExclamationCircle, faInfoCircle as faInfo,
+  faRightFromBracket, faMobileAlt, faIdCard,
+} from '@fortawesome/free-solid-svg-icons';
+
+
+library.add(
+  faHome, faCreditCard, faHandHoldingUsd, faShieldAlt,
+  faChartPie, faBars, faTimes, faArrowRight, faArrowLeft,
+  faCheck, faExclamationTriangle, faInfoCircle, faTimesCircle,
+  faCheckCircle, faEye, faEyeSlash, faDownload, faUpload,
+  faSearch, faFilter, faBell, faUser, faCog, faSignOutAlt,
+  faPlus, faMinus, faEdit, faTrash, faAngleRight, faAngleLeft,
+  faAngleDown, faAngleUp, faCalendar, faCoins, faPercent,
+  faBuilding, faCar, faHeart, faUmbrella, faPhone, faEnvelope,
+  faFileAlt, faChartLine, faWallet, faStar, faStarHalf,
+  faLock, faUnlock, faQrcode, faPaperPlane, faExchangeAlt,
+  faHistory, faReceipt, faGlobe, faShoppingCart, faPiggyBank,
+  faCalculator, faClock, faRupeeSign, faArrowUp, faArrowDown,
+  faBolt, faGift, faTag, faTrophy, faThumbsUp, faThumbsDown,
+  faHospital, faPlane, faMotorcycle, faBriefcase, faFire,
+  faWater, faHomeAlt, faChevronRight, faChevronLeft,
+  faEllipsisV, faSpinner, faSyncAlt, faCheckDouble, faBan,
+  faExclamationCircle, faInfo,
+  faRightFromBracket, faMobileAlt, faIdCard,
+);
